@@ -1,5 +1,5 @@
 import { useState, type FormEvent } from 'react'
-import { CalendarDays, Check, ChevronRight, Copy, Mountain, MapPin } from 'lucide-react'
+import { CalendarDays, Check, ChevronRight, Copy, MapPin } from 'lucide-react'
 import { compressToEncodedURIComponent } from 'lz-string'
 import { toast, Toaster } from 'sonner'
 import { Button } from './components/ui/button'
